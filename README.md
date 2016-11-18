@@ -2,9 +2,8 @@
 Esta es la versión corta del curso de Fundamentos de la Web especialmente pensada para impartirse en escuelas y universidades.
 
 ## ¿Qué necesitas?
-#### Un editor de texto, acá algunas sugerencias:
+#### Un editor de texto:
 * Atom, plugins recomendados: ```color-picker, auto-close-html, atom-html-preview```
-* Sublime Text: ```Cobalt2 theme, Color Highlighter package```
 
 #### Un navegador
 * En este caso usaremos Google Chrome  
@@ -51,4 +50,4 @@ Elm es un lenguaje de programación funcional para construir aplicaciones Front 
 Una vez que aprendes a construir layouts lo demás fluye solo. Con Flexbox y el sistema de Grid de Material Design Lite maquetaremos Instagram.
 
 ## Instituciones
-* Instituto Tecnológico de Misantla (Veracruz)
+* Instituto Tecnológico de Misantla (Veracruz) - 19 de Noviembre 2016
